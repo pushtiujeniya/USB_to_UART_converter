@@ -9,6 +9,8 @@ USB to UART converter module convert USB data to UART using FT232RL IC.
 - Ferrite bead
 - 2 smd led for TX and RX data transmission indication
 - 6 pin MCU connector
+- USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole 
 - resistors
 - capacitors
+  
      
